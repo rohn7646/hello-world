@@ -1,3 +1,3 @@
-# hello-world
-my introductory files to learning GitHub
-This is the first edit I'm doing to my GitHub file
+# Wandering in the desert . . .
+Taking baby steps and looking for a Camel
+My second attempt in GitHub!
