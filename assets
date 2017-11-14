@@ -1,1 +1,5 @@
 /assets/css/style.scss 
+---
+---
+
+@import "{{ site.theme }}";
